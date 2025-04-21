@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요!👋 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 성장통을 피하지 않고 마주하려는 노력형 신입 백엔드 개발자 윤수빈입니다.</li><li> 변화를 두려워하지 않고, 꾸준하게 공부하며 항상 성장하려고 노력하는 사람입니다.</li><li> 사용자 편의를 최우선으로 하여 언제나 만족을 선사할 수 있는 개발자가 되는 것이 목표입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
